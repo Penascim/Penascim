@@ -13,11 +13,14 @@
  
 </div>
 
-### Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,c,vim,html,javascript,css,bash,cpp,nodejs,react,linux&theme=dark"/>
-  </a>
-    <img src="https://github.com/raonieqr/RaoniEQR/assets/57332018/d59064a6-2bdc-4dbb-92be-ce748d5a7db5" width="5%" height="10%"/>
-    <img src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" width="5%" height="15%"/>
-</p>
+### GitHub Stats
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a747ed&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a747ed&size=35&center=true&vCenter=true&width=1000&lines=Showing+the+status+and+details;of+the+programming+languages;​​I+use+in+my+repositories:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevKneves&show_icons=true&count_private=true&hide_border=true&title_color=a747ed&icon_color=a747ed&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Neves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKneves&layout=compact&hide_border=true&title_color=7B68EE&text_color=a747ed&bg_color=0d1117" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a747ed&height=120&section=footer"/>
